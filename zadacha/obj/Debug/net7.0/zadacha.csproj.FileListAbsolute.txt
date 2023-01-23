@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\bin\Debug\net7.0\zadacha.exe
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\bin\Debug\net7.0\zadacha.deps.json
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\bin\Debug\net7.0\zadacha.runtimeconfig.json
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\bin\Debug\net7.0\zadacha.dll
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\bin\Debug\net7.0\zadacha.pdb
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfo.cs
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.dll
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\refint\zadacha.dll
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.pdb
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\zadacha.genruntimeconfig.cache
+C:\Users\Admin\Desktop\git\itogi bloka\zadacha\obj\Debug\net7.0\ref\zadacha.dll
